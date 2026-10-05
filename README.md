@@ -1,10 +1,10 @@
-h1>Hi, I'm Cedric! <br/><a href="https://github.com/joshmadakor1">Fitness Enthusiast</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+h1>Hi, I'm Cedric! <br/><a href="https://github.com/joshmadakor1">Fitness Enthusiast</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- Installing Software in a Linux Distro 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- Activities completed in the bash shell and journal entries
+  - https://www.coursera.org/learn/detection-and-response/exam/ghRgc/portfolio-activity-document-an-incident-with-an-incident-handlers-journal
+  - https://www.coursera.org/learn/detection-and-response/ungradedLti/TEDBX/activity-analyze-your-first-packet
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
