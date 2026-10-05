@@ -2,10 +2,10 @@ h1>Hi, I'm Cedric! <br/><a href="https://github.com/joshmadakor1">Fitness Enthus
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- Activities completed in the bash shell and journal entries
+- Journal entries
   - https://www.coursera.org/learn/detection-and-response/exam/ghRgc/portfolio-activity-document-an-incident-with-an-incident-handlers-journal
-  - https://www.coursera.org/learn/detection-and-response/ungradedLti/TEDBX/activity-analyze-your-first-packet
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - https://www.coursera.org/learn/detection-and-response/quiz/WbBPx/activity-review-a-final-incident-report
+  - https://www.coursera.org/learn/detection-and-response/quiz/niNli/activity-use-a-playbook-to-respond-to-a-phishing-incident
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
