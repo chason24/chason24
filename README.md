@@ -7,14 +7,14 @@ h1>Hi, I'm Cedric! <br/><a href="https://github.com/joshmadakor1">Fitness Enthus
   - https://www.coursera.org/learn/detection-and-response/quiz/WbBPx/activity-review-a-final-incident-report
   - https://www.coursera.org/learn/detection-and-response/quiz/niNli/activity-use-a-playbook-to-respond-to-a-phishing-incident
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - https://www.coursera.org/learn/detection-and-response/ungradedLti/TEDBX/activity-analyze-your-first-packet
+  - https://www.coursera.org/learn/detection-and-response/ungradedLti/VeAkC/activity-capture-your-first-packet
+  - https://www.coursera.org/learn/detection-and-response/quiz/wXUdm/activity-investigate-a-suspicious-file-hash
+  - 
+- Security Monitoring with detection tools
+  - https://www.coursera.org/learn/detection-and-response/ungradedLti/BkP1I/activity-explore-signatures-and-logs-with-suricata
+  - https://www.coursera.org/learn/detection-and-response/quiz/QGT1e/activity-perform-a-query-with-splunk
+  - https://www.coursera.org/learn/detection-and-response/quiz/iSlcH/activity-perform-a-query-with-chronicle
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
